@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Brian Dwyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdwyertech&show_icons=true&theme=gruvbox)
+[![Brian Dwyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdwyertech&show_icons=true&theme=gruvbox)](https://bdwyertech.net)
