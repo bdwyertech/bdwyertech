@@ -1,6 +1,12 @@
 name: Update README
 
 on:
+  workflow_dispatch:
+    inputs:
+      caller:
+        description: 'The invoker of the workflow'
+        required: false
+        default: ''
   push:
   schedule:
     - cron: "0 */1 * * *"
