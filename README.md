@@ -4,7 +4,7 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) - 
+- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) - Convert JSON to DynamoDB Format within Terraform
 - [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 - [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.14](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.14)) - 
+- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.15](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.15)) - Convert JSON to DynamoDB Format within Terraform
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) ([v0.0.42](https://github.com/bdwyertech/go-az/releases/tag/v0.0.42)) - Azure CLI Login functions ported to Golang
 - [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) ([0.1.11](https://github.com/bdwyertech/better-cfn-signal/releases/tag/0.1.11)) - Better CloudFormation SignalResource Helper
 - [bdwyertech/go-aws-cloudwatch-uptime](https://github.com/bdwyertech/go-aws-cloudwatch-uptime) ([v0.2.4](https://github.com/bdwyertech/go-aws-cloudwatch-uptime/releases/tag/v0.2.4)) - Reports an EC2&#39;s uptime to AWS CloudWatch as custom metric
