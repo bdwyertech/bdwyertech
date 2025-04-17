@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/docker-el-xc](https://github.com/bdwyertech/docker-el-xc) - Enterprise Linux Image for ARM64 cross-compilation
 - [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
-- [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 - [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) - Convert JSON to DynamoDB Format within Terraform
-- [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
+- [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 
 ####  🔭  Latest releases I've contributed to
 
