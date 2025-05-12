@@ -5,8 +5,8 @@
 #### 🔭 Check out some of what I'm working on
 
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
-- [bdwyertech/docker-el-xc](https://github.com/bdwyertech/docker-el-xc) - Enterprise Linux Image for ARM64 cross-compilation
 - [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
+- [bdwyertech/docker-el-xc](https://github.com/bdwyertech/docker-el-xc) - Enterprise Linux Image for ARM64 cross-compilation
 - [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 
