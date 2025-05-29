@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/ctr-rowboat](https://github.com/bdwyertech/ctr-rowboat) - 
 - [bdwyertech/ctr-atlassian-indexer-mcp](https://github.com/bdwyertech/ctr-atlassian-indexer-mcp) - 
 - [bdwyertech/ctr-aws-log-mcp](https://github.com/bdwyertech/ctr-aws-log-mcp) - 
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
-- [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 
 ####  🔭  Latest releases I've contributed to
 
