@@ -4,7 +4,7 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - 
+- [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - Go port of sooperset/mcp-atlassian
 - [bdwyertech/ctr-rowboat](https://github.com/bdwyertech/ctr-rowboat) - 
 - [bdwyertech/ctr-atlassian-indexer-mcp](https://github.com/bdwyertech/ctr-atlassian-indexer-mcp) - 
 - [bdwyertech/ctr-aws-log-mcp](https://github.com/bdwyertech/ctr-aws-log-mcp) - 
