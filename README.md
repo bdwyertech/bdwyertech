@@ -5,10 +5,10 @@
 #### 🔭 Check out some of what I'm working on
 
 - [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - Go port of sooperset/mcp-atlassian
+- [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 - [bdwyertech/ctr-rowboat](https://github.com/bdwyertech/ctr-rowboat) - 
 - [bdwyertech/ctr-atlassian-indexer-mcp](https://github.com/bdwyertech/ctr-atlassian-indexer-mcp) - 
 - [bdwyertech/ctr-aws-log-mcp](https://github.com/bdwyertech/ctr-aws-log-mcp) - 
-- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 
 ####  🔭  Latest releases I've contributed to
 
