@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 - [bdwyertech/buildx-gitlab](https://github.com/bdwyertech/buildx-gitlab) - 
 - [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - Go port of sooperset/mcp-atlassian
 - [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 - [bdwyertech/ctr-rowboat](https://github.com/bdwyertech/ctr-rowboat) - 
-- [bdwyertech/ctr-aws-log-mcp](https://github.com/bdwyertech/ctr-aws-log-mcp) - 
 
 ####  🔭  Latest releases I've contributed to
 
