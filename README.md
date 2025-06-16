@@ -6,8 +6,8 @@
 
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 - [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - Go port of sooperset/mcp-atlassian
-- [bdwyertech/buildx-gitlab](https://github.com/bdwyertech/buildx-gitlab) - 
 - [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
+- [bdwyertech/buildx-gitlab](https://github.com/bdwyertech/buildx-gitlab) - 
 - [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 
 ####  🔭  Latest releases I've contributed to
