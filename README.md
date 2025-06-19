@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/ctr-atlassian-indexer-mcp](https://github.com/bdwyertech/ctr-atlassian-indexer-mcp) - 
 - [ansible-lockdown/RHEL10-CIS](https://github.com/ansible-lockdown/RHEL10-CIS) - Automated CIS Benchmark Compliance Remediation for RHEL 10 with Ansible
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 - [bdwyertech/mcp-atlassian-server](https://github.com/bdwyertech/mcp-atlassian-server) - Go port of sooperset/mcp-atlassian
 - [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
-- [bdwyertech/buildx-gitlab](https://github.com/bdwyertech/buildx-gitlab) - 
 
 ####  🔭  Latest releases I've contributed to
 
