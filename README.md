@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/docker-el-xc](https://github.com/bdwyertech/docker-el-xc) - Enterprise Linux Image for ARM64 cross-compilation
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
 - [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
-- [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
 
 ####  🔭  Latest releases I've contributed to
 
