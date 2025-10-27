@@ -4,9 +4,9 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
 - [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) - Better CloudFormation SignalResource Helper
-- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
 - [bdwyertech/docker-el-xc](https://github.com/bdwyertech/docker-el-xc) - Enterprise Linux Image for ARM64 cross-compilation
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 
