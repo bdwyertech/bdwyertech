@@ -4,8 +4,8 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 - [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
 - [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) - Better CloudFormation SignalResource Helper
