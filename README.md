@@ -4,10 +4,10 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
-- [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
+- [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 
 ####  🔭  Latest releases I've contributed to
