@@ -4,8 +4,8 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/rust-displayconfig](https://github.com/bdwyertech/rust-displayconfig) - 
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/rust-displayconfig](https://github.com/bdwyertech/rust-displayconfig) - 
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
