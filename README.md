@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
+- [bdwyertech/ctr-aws-ecr-credential-helper](https://github.com/bdwyertech/ctr-aws-ecr-credential-helper) - 
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/rust-displayconfig](https://github.com/bdwyertech/rust-displayconfig) - 
-- [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
 
 ####  🔭  Latest releases I've contributed to
 
