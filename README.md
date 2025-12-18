@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
+- [bdwyertech/docker-skopeo](https://github.com/bdwyertech/docker-skopeo) - Skopeo on Alpine Linux
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 - [bdwyertech/ctr-aws-ecr-credential-helper](https://github.com/bdwyertech/ctr-aws-ecr-credential-helper) - 
-- [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
-- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
 
 ####  🔭  Latest releases I've contributed to
 
