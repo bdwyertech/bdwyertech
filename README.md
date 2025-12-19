@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
+- [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
+- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 - [bdwyertech/docker-skopeo](https://github.com/bdwyertech/docker-skopeo) - Skopeo on Alpine Linux
-- [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
+- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 
 ####  🔭  Latest releases I've contributed to
 
