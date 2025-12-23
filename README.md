@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
 - [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
-- [bdwyertech/docker-skopeo](https://github.com/bdwyertech/docker-skopeo) - Skopeo on Alpine Linux
 
 ####  🔭  Latest releases I've contributed to
 
