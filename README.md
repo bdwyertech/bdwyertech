@@ -8,7 +8,7 @@
 - [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/docker-skopeo](https://github.com/bdwyertech/docker-skopeo) - Skopeo on Alpine Linux
+- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 
 ####  🔭  Latest releases I've contributed to
 
