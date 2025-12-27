@@ -4,9 +4,9 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
+- [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 
