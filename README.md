@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
 - [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/docker-gitlab-runner-ecr](https://github.com/bdwyertech/docker-gitlab-runner-ecr) - GitLab Runner with the ECR Helper pre-installed
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/docker-tfkit](https://github.com/bdwyertech/docker-tfkit) - Terraform TestKitchen Container
-- [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 
 ####  🔭  Latest releases I've contributed to
 
