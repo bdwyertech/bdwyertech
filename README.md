@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) - 
 - [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
+- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
 - [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 - [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) - Better CloudFormation SignalResource Helper
-- [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
-- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
 
 ####  🔭  Latest releases I've contributed to
 
