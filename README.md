@@ -7,12 +7,12 @@
 - [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) - 
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
-- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
+- [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) - Better CloudFormation SignalResource Helper
 - [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) ([v0.1.0](https://github.com/bdwyertech/rs-wineventlog/releases/tag/v0.1.0)) - 
+- [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) ([v0.1.1](https://github.com/bdwyertech/rs-wineventlog/releases/tag/v0.1.1)) - 
 - [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) ([v0.4.08](https://github.com/bdwyertech/go-healthz/releases/tag/v0.4.08)) - Simple implementation for bolt-on server health checks
 - [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) ([v0.1.1](https://github.com/bdwyertech/go-aws-asg-status/releases/tag/v0.1.1)) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/better-cfn-signal](https://github.com/bdwyertech/better-cfn-signal) ([0.2.1](https://github.com/bdwyertech/better-cfn-signal/releases/tag/0.2.1)) - Better CloudFormation SignalResource Helper
