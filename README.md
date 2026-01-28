@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) ([v0.0.1](https://github.com/bdwyertech/go-berkshelf/releases/tag/v0.0.1)) - 
+- [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) ([v0.0.3](https://github.com/bdwyertech/go-berkshelf/releases/tag/v0.0.3)) - 
 - [ansible-lockdown/RHEL10-CIS](https://github.com/ansible-lockdown/RHEL10-CIS) ([0.9.2](https://github.com/ansible-lockdown/RHEL10-CIS/releases/tag/0.9.2)) - Automated CIS Benchmark Compliance Remediation for RHEL 10 with Ansible
 - [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) ([v0.1.8](https://github.com/bdwyertech/rs-wineventlog/releases/tag/v0.1.8)) - 
 - [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) ([v0.4.08](https://github.com/bdwyertech/go-healthz/releases/tag/v0.4.08)) - Simple implementation for bolt-on server health checks
