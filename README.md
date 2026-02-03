@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/ctr-goreleaser](https://github.com/bdwyertech/ctr-goreleaser) - 
 - [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) - 
 - [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) - 
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/dkr-chef-workstation](https://github.com/bdwyertech/dkr-chef-workstation) - 
-- [bdwyertech/kaniko-gitlab](https://github.com/bdwyertech/kaniko-gitlab) - 
 
 ####  🔭  Latest releases I've contributed to
 
