@@ -4,9 +4,9 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/ctr-osxcross](https://github.com/bdwyertech/ctr-osxcross) - 
 - [bdwyertech/github-secret-rotator](https://github.com/bdwyertech/github-secret-rotator) - 
-- [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) - Various extra stuff for Packer &amp; AWS
 
