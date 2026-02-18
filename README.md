@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 - [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) - 
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 - [bdwyertech/ctr-osxcross](https://github.com/bdwyertech/ctr-osxcross) - 
 - [bdwyertech/github-secret-rotator](https://github.com/bdwyertech/github-secret-rotator) - 
-- [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
 
 ####  🔭  Latest releases I've contributed to
 
