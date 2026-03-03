@@ -12,8 +12,8 @@
 
 ####  🔭  Latest releases I've contributed to
 
+- [ansible-lockdown/RHEL10-CIS](https://github.com/ansible-lockdown/RHEL10-CIS) ([1.0.1](https://github.com/ansible-lockdown/RHEL10-CIS/releases/tag/1.0.1)) - Automated CIS Benchmark Compliance Remediation for RHEL 10 with Ansible
 - [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) ([v0.0.2](https://github.com/bdwyertech/mac-gss-token-helper/releases/tag/v0.0.2)) - macOS SPNEGO token helper using GSS.framework
-- [ansible-lockdown/RHEL10-CIS](https://github.com/ansible-lockdown/RHEL10-CIS) ([0.9.3](https://github.com/ansible-lockdown/RHEL10-CIS/releases/tag/0.9.3)) - Automated CIS Benchmark Compliance Remediation for RHEL 10 with Ansible
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.5](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.5)) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) ([v0.0.4](https://github.com/bdwyertech/go-berkshelf/releases/tag/v0.0.4)) - 
 - [bdwyertech/rs-wineventlog](https://github.com/bdwyertech/rs-wineventlog) ([v0.1.8](https://github.com/bdwyertech/rs-wineventlog/releases/tag/v0.1.8)) - 
