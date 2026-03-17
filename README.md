@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/go-openapi2jsonschema](https://github.com/bdwyertech/go-openapi2jsonschema) - A Go library that converts OpenAPI 3.x documents to JSON Schema Draft 2020-12.
 - [bdwyertech/java-cluster-diag](https://github.com/bdwyertech/java-cluster-diag) - Diagnostic Application for JAS Environment Verification
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) - macOS SPNEGO token helper using GSS.framework
 
 ####  🔭  Latest releases I've contributed to
 
