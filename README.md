@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) - Simple implementation for bolt-on server health checks
+- [bdwyertech/go-aws-asg-status](https://github.com/bdwyertech/go-aws-asg-status) - Simplified use of AWS Autoscaling Group Instance Status functionality
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/go-openapi2jsonschema](https://github.com/bdwyertech/go-openapi2jsonschema) - A Go library that converts OpenAPI 3.x documents to JSON Schema Draft 2020-12.
 - [bdwyertech/java-cluster-diag](https://github.com/bdwyertech/java-cluster-diag) - Diagnostic Application for JAS Environment Verification
-- [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
-- [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
 
 ####  🔭  Latest releases I've contributed to
 
