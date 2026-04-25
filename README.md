@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) - 
 - [bdwyertech/docker-gitlab-runner-ecr](https://github.com/bdwyertech/docker-gitlab-runner-ecr) - GitLab Runner with the ECR Helper pre-installed
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
+- [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) - macOS SPNEGO token helper using GSS.framework
-- [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
 
 ####  🔭  Latest releases I've contributed to
 
