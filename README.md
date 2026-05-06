@@ -8,7 +8,7 @@
 - [bdwyertech/arkive](https://github.com/bdwyertech/arkive) - 
 - [bdwyertech/docker-gitlab-runner-ecr](https://github.com/bdwyertech/docker-gitlab-runner-ecr) - GitLab Runner with the ECR Helper pre-installed
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) - Azure CLI Login functions ported to Golang
-- [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
+- [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) - macOS SPNEGO token helper using GSS.framework
 
 ####  🔭  Latest releases I've contributed to
 
