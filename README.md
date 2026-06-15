@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.17](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.17)) - Convert JSON to DynamoDB Format within Terraform
+- [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.18](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.18)) - Convert JSON to DynamoDB Format within Terraform
 - [ansible-lockdown/RHEL10-CIS](https://github.com/ansible-lockdown/RHEL10-CIS) ([1.0.2](https://github.com/ansible-lockdown/RHEL10-CIS/releases/tag/1.0.2)) - Automated CIS Benchmark Compliance Remediation for RHEL 10 with Ansible
 - [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) ([v0.4.11](https://github.com/bdwyertech/go-healthz/releases/tag/v0.4.11)) - Simple implementation for bolt-on server health checks
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.8](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.8)) - Various extra stuff for Packer &amp; AWS
