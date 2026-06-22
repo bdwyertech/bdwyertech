@@ -8,7 +8,7 @@
 - [bdwyertech/ctr-packer-aws](https://github.com/bdwyertech/ctr-packer-aws) - Container image with Packer &amp; AWS CLI
 - [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) - macOS SPNEGO token helper using GSS.framework
-- [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) - 
+- [bdwyertech/arkive](https://github.com/bdwyertech/arkive) - 
 
 ####  🔭  Latest releases I've contributed to
 
