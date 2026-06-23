@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.9](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.9)) - Various extra stuff for Packer &amp; AWS
+- [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.10](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.10)) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.18](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.18)) - Convert JSON to DynamoDB Format within Terraform
 - [bdwyertech/go-healthz](https://github.com/bdwyertech/go-healthz) ([v0.4.11](https://github.com/bdwyertech/go-healthz/releases/tag/v0.4.11)) - Simple implementation for bolt-on server health checks
 - [bdwyertech/mac-gss-token-helper](https://github.com/bdwyertech/mac-gss-token-helper) ([v0.0.2](https://github.com/bdwyertech/mac-gss-token-helper/releases/tag/v0.0.2)) - macOS SPNEGO token helper using GSS.framework
