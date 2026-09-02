@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/go-az](https://github.com/bdwyertech/go-az) ([v0.0.53](https://github.com/bdwyertech/go-az/releases/tag/v0.0.53)) - Azure CLI Login functions ported to Golang
+- [bdwyertech/go-az](https://github.com/bdwyertech/go-az) ([v0.0.54](https://github.com/bdwyertech/go-az/releases/tag/v0.0.54)) - Azure CLI Login functions ported to Golang
 - [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) ([v0.0.5](https://github.com/bdwyertech/go-berkshelf/releases/tag/v0.0.5)) - 
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.10](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.10)) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/terraform-provider-json2dynamodb](https://github.com/bdwyertech/terraform-provider-json2dynamodb) ([v0.1.18](https://github.com/bdwyertech/terraform-provider-json2dynamodb/releases/tag/v0.1.18)) - Convert JSON to DynamoDB Format within Terraform
