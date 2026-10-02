@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ([0.9.52.0](https://github.com/cloud-custodian/cloud-custodian/releases/tag/0.9.52.0)) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ([0.9.53.0](https://github.com/cloud-custodian/cloud-custodian/releases/tag/0.9.53.0)) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) ([v0.0.56](https://github.com/bdwyertech/go-az/releases/tag/v0.0.56)) - Azure CLI Login functions ported to Golang
 - [bdwyertech/go-berkshelf](https://github.com/bdwyertech/go-berkshelf) ([v0.0.5](https://github.com/bdwyertech/go-berkshelf/releases/tag/v0.0.5)) - 
 - [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.10](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.10)) - Various extra stuff for Packer &amp; AWS
