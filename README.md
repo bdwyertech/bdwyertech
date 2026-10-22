@@ -4,8 +4,8 @@
 
 #### 🔭 Check out some of what I'm working on
 
-- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
 - [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
+- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
 - [bdwyertech/gontlm-proxy](https://github.com/bdwyertech/gontlm-proxy) - NTLM Proxy Forwarder
 - [bdwyertech/go-openapi2jsonschema](https://github.com/bdwyertech/go-openapi2jsonschema) - A Go library that converts OpenAPI 3.x documents to JSON Schema Draft 2020-12.
