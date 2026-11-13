@@ -12,7 +12,7 @@
 
 ####  🔭  Latest releases I've contributed to
 
-- [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.12](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.12)) - Various extra stuff for Packer &amp; AWS
+- [bdwyertech/packer-plugin-aws](https://github.com/bdwyertech/packer-plugin-aws) ([v0.0.13](https://github.com/bdwyertech/packer-plugin-aws/releases/tag/v0.0.13)) - Various extra stuff for Packer &amp; AWS
 - [bdwyertech/rpm-brotli](https://github.com/bdwyertech/rpm-brotli) ([v1.0.10-bd](https://github.com/bdwyertech/rpm-brotli/releases/tag/v1.0.10-bd)) - 
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) ([0.9.53.0](https://github.com/cloud-custodian/cloud-custodian/releases/tag/0.9.53.0)) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [bdwyertech/go-az](https://github.com/bdwyertech/go-az) ([v0.0.56](https://github.com/bdwyertech/go-az/releases/tag/v0.0.56)) - Azure CLI Login functions ported to Golang
