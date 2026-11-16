@@ -8,7 +8,7 @@
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
 - [bdwyertech/rpm-brotli](https://github.com/bdwyertech/rpm-brotli) - 
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
-- [bdwyertech/aws-get-secret](https://github.com/bdwyertech/aws-get-secret) - Simple utility to retrieve a secret from AWS ParameterStore
+- [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 
 ####  🔭  Latest releases I've contributed to
 
