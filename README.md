@@ -4,11 +4,11 @@
 
 #### 🔭 Check out some of what I'm working on
 
+- [bdwyertech/rs-aws-whoami](https://github.com/bdwyertech/rs-aws-whoami) - 
 - [bdwyertech/docker-image-build-utils](https://github.com/bdwyertech/docker-image-build-utils) - Alpine Python image with minimal Ruby &amp; Berkshelf Installation
 - [bdwyertech/docker-ecr-proxy](https://github.com/bdwyertech/docker-ecr-proxy) - 
 - [bdwyertech/rpm-brotli](https://github.com/bdwyertech/rpm-brotli) - 
 - [bdwyertech/dkr-go-crosscompile](https://github.com/bdwyertech/dkr-go-crosscompile) - Docker image for cross compilation
-- [bdwyertech/ctr-rust-crosscompile](https://github.com/bdwyertech/ctr-rust-crosscompile) - 
 
 ####  🔭  Latest releases I've contributed to
 
